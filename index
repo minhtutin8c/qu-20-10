@@ -2418,7 +2418,7 @@
                     <h1>Phụ nữ Việt Nam</h1>
                     <div class="f-date">20 · 10</div>
                     <p class="f-to" id="f-to">gửi người phụ nữ tuyệt vời</p>
-                    <p class="f-msg">mong mỗi ngày của cậu đều có hoa, có nắng, có tiếng cười — và có người nhớ đến cậu thật nhiều.</p>
+                    <p class="f-msg">mong mỗi ngày của em đều có hoa, có nắng, có tiếng cười — và có người nhớ đến cậu thật nhiều.</p>
                     <div class="f-act">
                         <button id="b-link" class="alt" hidden>chép link</button>
                         <button id="b-replay" class="alt">xem lại</button>
@@ -2638,7 +2638,7 @@
                     }
                 },
                 {
-                    say: 'anh xin gửi cậu bốn lời chúc nhé',
+                    say: 'anh xin gửi em bốn lời chúc nhé',
                     bars: 1.5,
                     mood: 'wave',
                     bg: 2
